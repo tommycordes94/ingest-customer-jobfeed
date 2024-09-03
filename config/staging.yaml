@@ -1,0 +1,2 @@
+project: "trd-dwh-dev"
+base_path: "gs://trd-dwh-dev/datalake"
